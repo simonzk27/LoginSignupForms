@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">voting system</string>
+    <string name="iniciar_sesion">Login</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="registro_usuario">User Register</string>
+    <string name="username_hint">Enter User Name</string>
+    <string name="email_hint">Enter eMail</string>
+    <string name="first_name_hint">Enter Full Name</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="password_hint2">Enter Confirm Password</string>
+    <string-array name="roles_array">
+    <item>ciudadano</item>
+    <item>planeador</item>
+    <item>decisor</item>
+    </string-array>
+</resources>
